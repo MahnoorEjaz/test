@@ -6,4 +6,4 @@
 
         System.out.println("The sum is: " + result);
     }
-SDJCDMN
+}
